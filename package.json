@@ -1,0 +1,27 @@
+{
+  "name": "kata",
+  "version": "0.1.0",
+  "description": "posiones combitaion",
+  "main": "core.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efaby/kata.git"
+  },
+  "keywords": [
+    "kata",
+    "combinaciones",
+    "posiones"
+  ],
+  "author": "pair",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/efaby/kata/issues"
+  },
+  "homepage": "https://github.com/efaby/kata#readme"
+}
